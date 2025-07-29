@@ -2,6 +2,6 @@
 fake_market_project
 
 
---bash
+```bash
 python3 -m venv venv
---
+```
