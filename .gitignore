@@ -210,3 +210,5 @@ creds.py
 
 data/
 logs/
+
+.env
